@@ -1,7 +1,15 @@
 # DesiginPattern
 
 23种常见的设计模式,以下从应用方面入手：
-
+分类	设计模式
+# 创建型	
+   工厂方法模式（FactoryMethod）、抽象工厂模式（AbstractFactory）、建造者模式（Builder）、原型模式（Prototype）、单例模式(Singleton)
+ # 结构型	
+ 适配器模式(Adapter)、桥接模式（Bridge）、组合模式（Composite）、装饰器模式（Decorator）、门面模式（Facade）、享元模式（Flyweight）、代理模式（Proxy）
+  # 行为型	
+  解释器模式（Interpreter）、模板方法模式（TemplateMethod）、责任链模式（ChainofResponsibility）、命令模式（Command）、迭代器模式（Iterator）、调解者模式（Mediator）、备忘录模式（Memento）、观察者模式（Observer）、状态模式（State）、策略模式（Strategy）、访问者模式（Visitor）
+  
+ # 常见设计模式
 1.工厂模式：这个很明显，在各种BeanFactory以及ApplicationContext创建中都用到了；
 
 2.模版模式：这个也很明显，在各种BeanFactory以及ApplicationContext实现中也都用到了；
